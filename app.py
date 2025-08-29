@@ -1,3 +1,9 @@
+# 6) While Loop 
+# i = 1
+# while i <= 1_00000:
+#     print(i)
+#     i = i + 1
+
 # 5) Weight Convert 
 # weight = float(input('Enter your weight: '))
 # weight_scale = input('(K)g or (L)bs: ')
