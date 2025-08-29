@@ -1,4 +1,6 @@
-
+# 4) Srings 
+course = 'Python for Beginners'
+print('Python' in course)
 
 # 3) Type Conversion 
 # first_num = input('Enter the first number: ')
